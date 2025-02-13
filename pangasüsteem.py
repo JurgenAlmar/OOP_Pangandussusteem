@@ -35,3 +35,4 @@ class Bank(User):
     def view_balance(self):#funktsioon kontojäägi nähemiseks
         self.show_details()#näitab kasutaja andmeid
         print("Account balance: ", self.balance)#näitab kontojääki
+#Jürgen 13.02.2025
